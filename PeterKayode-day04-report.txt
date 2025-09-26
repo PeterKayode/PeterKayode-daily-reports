@@ -1,0 +1,83 @@
+    1  git --help
+    2  git status
+    3  git --status
+    4  git config
+    5  git config --global PeterKayode "Peter"
+    6  git config --global user.name "Peter"
+    7  git config --global user.email "peterkayode618@gmail.com"
+    8  /home
+    9  ls
+   10  clear
+   11  cd desktop
+   12  cd
+   13  cd
+   14  cd
+   15  mkdir simplestats
+   16  cd simplestats
+   17  git init
+   18  ls -A .git
+   19  cd .git
+   20  ls -A
+   21  nano description
+   22  ls -A
+   23  nano description
+   24  ! tree
+   25  tree
+   26  git status
+   27  tree
+   28  tree
+   29  clear
+   30  tree
+   31  tree
+   32  git tree
+   33  git --tree
+   34  git tree
+   35  tree
+   36  tree
+   37  git --tree
+   38  git --tree
+   39  tree
+   40  git-tree
+   41  git -tree
+   42  git status
+   43  tree
+   44  tree
+   45  tree
+   46  git tree
+   47  cd ..
+   48  git status
+   49  touch README.md
+   50  ls
+   51  nano README.md
+   52  git status
+   53  git add README.md
+   54  git status
+   55  git commit -am "Add README file"
+   56  git status
+   57  git diff
+   58  nano README.md
+   59  git add README.md
+   60  git commit -am "Add new line"
+   61  git diff
+   62  nano README.md
+   63  git add README.md
+   64  git diff
+   65  git reset
+   66  git diff
+   67  git diff --stat
+   68  git diff --cached
+   69  git log
+   70  nano file2.md
+   71  diff README.md file2.md
+   72  nano README.md
+   73  git add README.md
+   74  git status
+   75  git checkout --README.md
+   76  git checkout -- README.md
+   77  git status
+   78  git show --name-only
+   79  git log
+   80  git stats
+   81  git status
+   82  history
+   83  history  > my_command.txt
